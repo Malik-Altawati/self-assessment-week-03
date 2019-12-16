@@ -27,8 +27,8 @@ After you complete each prompt, assign a grade to each item in the Grading Outli
 ### Grading Outline
 
 - [Complete] angularjs-pond
-- [ ] react-pond
-- [ ] backbone-pond
+- [Attempted] react-pond
+- [ot attempted ] backbone-pond
 
 ### Grading Scale
 
